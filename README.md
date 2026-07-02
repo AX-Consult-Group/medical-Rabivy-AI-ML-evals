@@ -1,6 +1,8 @@
 # Rabivy: AI-ML Evals
 
-**Disclaimer**: Rabivy and AX Pharmaceuticals are fictional and were created solely for the purposes of this demonstration and portfolio project. This project is an independent demonstration and was not commissioned by any pharmaceutical company. 
+**Disclaimer**: 
+
+Rabivy and AX Pharmaceuticals are fictional and were created solely for the purposes of this demonstration and portfolio project. This project is an independent demonstration and was not commissioned by any pharmaceutical company. 
 
 ---
 
@@ -64,7 +66,7 @@ This multi-metric harness provides a comprehensive view of both predictive power
 
 The full rendered report is available via **GitHub Pages**: 
 
-xxx
+https://ax-consult-group.github.io/medical-Rabivy-AI-ML-Evals/ 
 
 ---
 
