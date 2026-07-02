@@ -1,4 +1,4 @@
-# Rabivy: AI ML Evals
+# Rabivy: AI-ML Evals
 
 **Disclaimer**: Rabivy and AX Pharmaceuticals are fictional and were created solely for the purposes of this demonstration and portfolio project. This project is an independent demonstration and was not commissioned by any pharmaceutical company. 
 
