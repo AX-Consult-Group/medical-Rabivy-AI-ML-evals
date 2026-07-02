@@ -36,7 +36,7 @@ All models were trained on the same set of engineered features and evaluated on 
 
 To ensure robust and unbiased assessment, we implemented a structured **evaluation harness** using a **golden test set** — a 30% hold-out portion of the data that was completely withheld from model training and hyperparameter tuning. This approach simulates how the models would perform on future, unseen HCPs.
 
-- All models were evaluated on the golden test set using a consistent set of metrics:
+All models were evaluated on the golden test set using a consistent set of metrics:
 
 - Discrimination: AUC and Gini coefficient.
 
