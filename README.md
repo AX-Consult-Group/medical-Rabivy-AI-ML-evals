@@ -1,4 +1,4 @@
-# Rabivy: AI-ML Evals
+# Medical Rabivy robustness evals
 
 ![Infographic: Design Overview](infographic.png) 
 
