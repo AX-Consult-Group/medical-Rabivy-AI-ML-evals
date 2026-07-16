@@ -12,6 +12,8 @@ Rabivy and AX Pharmaceuticals are fictional and were created solely for the purp
 
 Rabivy is AX Pharmaceutical's obesity asset with a monthly (or less frequent) dosing regimen and cardiometabolic positioning. As a pre-launch asset, no real-world prescribing data yet exists. Commercial analytics teams must therefore develop robust methods to identify which Healthcare Professionals (HCPs) are most likely to prescribe Rabivy at launch and to understand the key drivers of early adoption. The closest benchmarks are the launches of semaglutide (Wegovy) and tirzepatide (Zepbound). 
 
+A covariate-shift robustness evaluation of three frozen classifiers (LR, XGBoost, MLP) predicting HCP prescribing propensity. The data-generating process is held fixed and only covariate distributions shift by state — isolating transportability under covariate shift from concept drift, which real external validation confounds.
+
 The primary objective of this analysis is to build and validate a propensity model that predicts which HCPs are likely to prescribe Rabivy in the first 12 weeks post-launch. 
 
 ---
